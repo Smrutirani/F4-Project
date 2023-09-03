@@ -1,0 +1,46 @@
+div>ul{
+    display: flex;
+    justify-content: space-between !important;
+    text-decoration: none;
+}
+.list-item{
+    padding-right: 10px !important;
+}
+.container{
+    width: 100%;
+    height: auto;
+}
+.container-1{
+    width: 50%;
+}
+.container-2{
+    width: 50%;
+    border: 2px solid;
+    padding: 20px;
+}
+.container-2 > button{
+    width: ;
+}
+.form{
+    border: 1px solid;
+    border-radius: 10px;
+    width: 50%;    
+
+}
+tr{
+    border-bottom: 1px;
+}
+.form:hover{
+    cursor: pointer;
+}
+.txt{
+    text-align: center;
+    padding: 2px;
+    background-color: skyblue;
+    font-size: small;
+    border-radius: 10px;
+}
+.child{
+    margin: auto;
+    width: 80%;
+}
